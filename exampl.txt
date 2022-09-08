@@ -1,0 +1,17 @@
+<body>
+<header>
+<div> <img src = "img/index.jpg" alt = "стич" height = "120px" width = "160px">
+<naw> 
+   <ul> 
+      <li>
+	<a href = "index.html"> o cebe </a>
+      </li>
+   </ul>
+</naw>
+</header>
+<main>
+
+</main>
+<footer>
+</footer>
+</body>
